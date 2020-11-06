@@ -1,0 +1,6 @@
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install jupyter-matplotlib
+jupyter nbextension enable --py widgetsnbextension
+wget -q -O JM_OL7_map1.bcf "https://www.dropbox.com/s/1otfkdqxbuqrs97/JM1_OL7_map1.bcf?dl=0"
+wget -q -O AI4ER_JM1_OL7_PCA.npz "https://www.dropbox.com/s/fpwoexyanh71wwz/AI4ER_JM1_OL7_PCA.npz?dl=0"
+wget -q -O AI4ER_JM1_OL7_NMF.npz "https://www.dropbox.com/s/u41ubt6h1pq72jl/AI4ER_JM1_OL7_NMF.npz?dl=0"
