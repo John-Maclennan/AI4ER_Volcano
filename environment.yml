@@ -4,16 +4,16 @@ channels:
   - defaults
 dependencies:
   - matplotlib=3.3.2
-  - matplotlib-base=3.3.2=py38h181983e_0
-  - numba=0.51.2=py38h6440ff4_1
-  - numexpr=2.7.1=py38hce01a72_0
-  - numpy=1.19.2=py38h456fd55_0
-  - numpy-base=1.19.2=py38hcfb5961_0
-  - numpydoc=1.1.0=py_0
-  - scikit-image=0.17.2=py38h81aa140_0
-  - scikit-learn=0.23.2=py38h959d312_0
-  - scipy=1.5.2=py38h2515648_0
+  - matplotlib-base=3.3.2
+  - numba=0.51.2
+  - numexpr=2.7.1
+  - numpy=1.19.2
+  - numpy-base=1.19.2
+  - numpydoc=1.1.0
+  - scikit-image=0.17.2
+  - scikit-learn=0.23.2
+  - scipy=1.5.2
   - hyperspy=1.6.0
-  - pyqt=5.9.2=py38h32f6830_1
-  - qt=5.9.7=h468cd18_1
+  - pyqt=5.9.2
+  - qt=5.9.7
 prefix: /Users/johnmaclennan/opt/anaconda3
